@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MaquinaDispensadoraSnacks/MaquinaDispensadoraSnacks.iml" filepath="$PROJECT_DIR$/MaquinaDispensadoraSnacks/MaquinaDispensadoraSnacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO202401/POO202401.iml" filepath="$PROJECT_DIR$/POO202401/POO202401.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Poo.iml" filepath="$PROJECT_DIR$/.idea/Poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Poo-Profeeeee/Poo-Profeeeee.iml" filepath="$PROJECT_DIR$/Poo-Profeeeee/Poo-Profeeeee.iml" />
+    </modules>
+  </component>
+</project>
